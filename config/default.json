@@ -1,0 +1,11 @@
+{
+    "mongo" : {
+        "host" : "localhost",
+        "port" : 27017,
+        "user" : "",
+        "password" : ""
+    },
+    "bscscan" : {
+        "apiKey" : ""
+    }
+}
